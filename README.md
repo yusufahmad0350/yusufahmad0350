@@ -30,7 +30,7 @@ Tech Stack: Jenkins, Selenium, Maven
 Implemented a CI/CD pipeline that automatically runs automated tests on every new commit, enhancing the reliability of the release process.
 
 ## 📜 Certifications
-**ISTQB® Certified Tester Foundation Level (CTFL)**
+**ISTQB® Certified Tester Foundation Level (CTFL)**, 
 **Diploma in Software Testing, Edista Testing Institute, India**
 
 ## 📞 Get in Touch
